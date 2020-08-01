@@ -1,0 +1,35 @@
+_repo: Regi-magyar-elet_62736
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Móricz, Pál
+    alias: Moricz, Pal
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '52096'
+    url: http://www.gutenberg.org/2009/agents/52096
+    wikipedia: https://hu.wikipedia.org/wiki/M%C3%B3ricz_P%C3%A1l
+description: ''
+gutenberg_issued: '2020-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62736'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Hungarian fiction -- 20th century'
+- GITenberg
+tableOfContents: Darvay kapitány -- A nagyabonyi nóta -- A Radeczky-huszárok -- A
+  Tiszák -- Bihari kortesek -- A Baranyi urak -- A Dobozi úr cigányai -- Csokalyi
+  Fényesek -- A Morvay Louise regénye -- Foltényi Vilmos színész -- A világosi átok
+  -- Petőfi körül -- A Rózsa Sándor bandája -- Hortobágyi gulyások -- Debreceni diákok
+  -- A kántus -- Érmelléki szüretek -- Az öreg József főherceg -- Magyar-Szeged --
+  Gabara piktor -- Az asztaltársaságok -- Notárius Bekk Pista -- A dudások -- A podeszta
+  -- A debreceni nagyszabadságon -- Kustár Ignác piarista -- A „tokaji“ hazájáról
+  -- Az arany bika-fogadó -- Betyárok; pandúrok -- Magyar mesterségek.
+title: Régi magyar élet
+url: http://www.gutenberg.org/ebooks/62736
